@@ -1,0 +1,3 @@
+api_gateways:
+  - name: dev/api-analise-curricular
+  - name: dev/api-auth
